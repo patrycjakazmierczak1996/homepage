@@ -1,4 +1,4 @@
-console.log("Siemka");
+console.log("Siemka, witam wszystkich developerów. Mój kod jest już w Git.");
 
 let contactButton = document.querySelector(".section__contactwithme");
 let contactData = document.querySelector(".section__contactData");
