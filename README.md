@@ -1,4 +1,4 @@
-# Patrycja Kaźmierczak
+# Patrycja Kaźmierczak- moja strona
 
 ![Patrycja Kaźmierczak](https://i.postimg.cc/rw1BWQTK/Patrycja-Ka-mierczak.jpg)
 
