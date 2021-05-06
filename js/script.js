@@ -1,5 +1,5 @@
 function welcome() {
-  console.log("Siemka, moja strona jest już na Github.")
+  console.log("Siemka, moja strona jest już na Github. Zapraszam!!!!")
 }
 
 welcome();
