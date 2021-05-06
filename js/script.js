@@ -1,20 +1,43 @@
-console.log("Siemka, witam wszystkich developerów. Mój kod jest już w Git.");
+function welcome() {
+  console.log("Siemka, moja strona jest już na Github. Zapraszam!")
+}
 
-let contactButton = document.querySelector(".section__contactwithme");
-let contactData = document.querySelector(".section__contactData");
-contactButton.addEventListener("click", () => {
+welcome();
+
+const background = () => {
+  document.body.classList.toggle("section__grey");
+};
+
+const contactwithme = () => {
+
   contactData.classList.toggle("section__contactData--show");
   contactData.classList.contains("section__contactData--show")
     ? (contactButton.innerText = "Ukryj")
     : (contactButton.innerText = "Kontakt");
-});
+};
 
-let background = document.querySelector(".section__background");
-let body = document.querySelector(".section__body");
+const init = () => {
+  const backgroundcolor = document.querySelector(".section__background");
+  backgroundcolor.addEventListener("click", background);
+  body = document.querySelector(".section__body");
+
+  const contactButton = document.querySelector(".section__contactwithme");
+  contactButton.addEventListener("click", contactwithme);
+  contactData = document.querySelector(".section__contactData");
+
+};
 
 
-background.addEventListener("click", () => {
-    body.classList.toggle("section__grey");
-});
+
+init();
+
+
+
+
+
+
+
+
+
 
 
