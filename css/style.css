@@ -19,7 +19,7 @@ html {
     background-color: #98D7C3;
 }
 
-.section__background {
+.section__changeBackground {
     color: rgb(22, 13, 13);
     background-color: #2eccbf;
     margin: 50px 0 25px;
@@ -31,7 +31,7 @@ html {
     text-align: center;
 }
 
-.section__background:hover {
+.section__changeBackground:hover {
     background-color: #cfe9e1;
 }
 
@@ -172,7 +172,7 @@ body {
     padding: 50px;
 }
 
-.section__contactwithme {
+.section__showContactWithMe {
     margin: 50px 0 25px;
     padding: 15px 15px;
     font-size: 15px;
@@ -184,7 +184,7 @@ body {
     border-radius: 5px;
 }
 
-.section__contactwithme:hover {
+.section__showContactWithMe:hover {
     background-color: #bfd6cf;
     color: rgb(14, 13, 13);
 }

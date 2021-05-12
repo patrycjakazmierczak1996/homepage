@@ -17,11 +17,11 @@ const contactwithme = () => {
 };
 
 const init = () => {
-  const backgroundcolor = document.querySelector(".section__background");
+  const backgroundcolor = document.querySelector(".section__changeBackground");
   backgroundcolor.addEventListener("click", background);
   body = document.querySelector(".section__body");
 
-  const contactButton = document.querySelector(".section__contactwithme");
+  const contactButton = document.querySelector(".section__showContactWithMe");
   contactButton.addEventListener("click", contactwithme);
   contactData = document.querySelector(".section__contactData");
 
