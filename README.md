@@ -9,13 +9,12 @@ https://patrycjakazmierczak1996.github.io/homepage/
 
 ## Description:
 
-Homepage is my first website. I included here information about my:
-
+Homepage is my first website. Podałam tutaj informacje o swoim:
 - education
 - professional experience
 - interests
 
-##Technologies: 
+## Technologies: 
 
 - HTML
 - CSS
