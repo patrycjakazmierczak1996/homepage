@@ -1,4 +1,4 @@
-# Patrycja Kaźmierczak- moja strona
+# Patrycja Kaźmierczak- homepage
 
 ![Patrycja Kaźmierczak](https://i.postimg.cc/rw1BWQTK/Patrycja-Ka-mierczak.jpg)
 
@@ -7,6 +7,17 @@
 
 https://patrycjakazmierczak1996.github.io/homepage/
 
-## Opis:
+## Description:
 
-Witam wszystkich, którzy odwiedzają właśnie moją pierwszą strone internetową. Dopiero się uczę ale swoją wiedzę wciąż poszerzam :-) 
+Homepage is my first website. I included here information about my:
+
+- education
+- professional experience
+- interests
+
+##Technologies: 
+
+- HTML
+- CSS
+- ES6+ features
+- BEM
